@@ -116,7 +116,7 @@ My role was the analysis: I defined the business questions, built the Excel and 
 └── images/    Dashboard and chart screenshots
 ```
 
-**To explore:** open the `.pbix` in [Power BI Desktop](https://www.microsoft.com/power-bi/desktop) (free), run the `.sql` file in MySQL after importing `data/program_financials.csv` as `program_financials`, or open the `.xlsx` in Excel.
+**To explore:** open the `.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) (free), run the `.sql` file in MySQL after importing `data/program_financials.csv` as `program_financials`, or open the `.xlsx` in Excel.
 
 ## Limitations
 
