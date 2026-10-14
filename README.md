@@ -4,7 +4,7 @@
 
 End-to-end analysis for a VP Finance / Program Finance Manager: Excel → SQL → Power BI → findings and recommendations. Built on a synthetic dataset modeled on aerospace program-control and Earned Value Management (EVM) concepts.
 
-<!-- Dashboard screenshot: images/dashboard_portfolio.png (added next) -->
+![Power BI dashboard](images/dashboard_portfolio.png)
 
 ---
 
