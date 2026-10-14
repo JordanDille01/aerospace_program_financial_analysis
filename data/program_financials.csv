@@ -1,0 +1,865 @@
+program_id,program_name,customer_type,program_type,program_manager,reporting_month,cost_category,budget_cost,actual_cost,earned_value,forecast_cost
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-01-01,Labor,505854.82,510165.41,510925.25,511260.44
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-01-01,Materials,410890.08,417855.42,416961.97,418271.21
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-01-01,Subcontracts,323406.43,324093.65,317411.56,326296.41
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-01-01,Overhead,222380.87,225837.17,217884.41,223467.47
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-01-01,Travel,55834.05,54252.57,55320.74,55545.71
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-01-01,Other Direct Costs,84721.4,84394.25,84535.55,85484.36
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-02-01,Labor,497458.24,497706.1,492186.46,499788.82
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-02-01,Materials,417224.61,428145.64,420001.51,422933.18
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-02-01,Subcontracts,315306.42,323662.89,308232.4,323866.7
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-02-01,Overhead,239542.09,240283.96,233770.09,239579.57
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-02-01,Travel,54895.05,56272.67,54400.57,55559.91
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-02-01,Other Direct Costs,85923.92,83667.24,83509.38,83455.33
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-03-01,Labor,514395.86,520812.76,523075.54,512596.9
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-03-01,Materials,421824.89,430323.84,421108.62,426907.83
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-03-01,Subcontracts,324356.22,325160.72,329633.02,327871.5
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-03-01,Overhead,228419.51,226332.14,230282.18,226796.72
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-03-01,Travel,57291.57,56301.03,56998.92,57086.98
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-03-01,Other Direct Costs,89609.18,92312.21,88651.78,91973.9
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-04-01,Labor,522975.9,514375.3,519643.13,513202.88
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-04-01,Materials,410686.58,412296.36,406669.96,413491.31
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-04-01,Subcontracts,325888.64,315043.23,317340.94,315914.07
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-04-01,Overhead,235828.68,229294.68,235266.4,234773.17
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-04-01,Travel,57758.86,59104.31,58170.65,59010.05
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-04-01,Other Direct Costs,87110.96,84474.43,85229.95,86481.65
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-05-01,Labor,511103.16,503460.05,512990.12,501109.24
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-05-01,Materials,426203.03,417234.5,427453.16,425997.94
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-05-01,Subcontracts,329654.74,330396.67,336120.86,329691.16
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-05-01,Overhead,234956.57,229783.92,228757.15,230925.63
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-05-01,Travel,57182.78,55323.97,57177.69,56113.36
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-05-01,Other Direct Costs,85237.99,87553.91,83729.62,87135.62
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-06-01,Labor,520154.84,519136.11,516890.56,521661.8
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-06-01,Materials,431555.51,418452.58,425703.83,429929.25
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-06-01,Subcontracts,321989.65,313447.44,330216.91,321908.76
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-06-01,Overhead,241495.59,245066.44,238843.96,246724.12
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-06-01,Travel,58841.84,58516.03,60316,58695.81
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-06-01,Other Direct Costs,89330.08,91408.73,90894.76,89750.37
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-07-01,Labor,559388.72,560177.17,555331.19,566508.91
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-07-01,Materials,411616.84,402823.97,421680.29,411669.31
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-07-01,Subcontracts,346149.09,337261.28,336526.16,345721.21
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-07-01,Overhead,251219.81,252641.8,251533.08,253665.37
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-07-01,Travel,57649.01,57566.71,56720.65,57278.23
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-07-01,Other Direct Costs,88532.49,88318.64,88186.08,88008.32
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-08-01,Labor,523100.62,520954.31,519103.98,528867.1
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-08-01,Materials,418447.48,416893.1,415038.37,414772.17
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-08-01,Subcontracts,327620.29,327411.44,319555.43,331054.58
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-08-01,Overhead,255203.57,250375.57,253471.01,254911.46
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-08-01,Travel,57569.76,57434.02,56278.41,58360.41
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-08-01,Other Direct Costs,94021.06,93609.14,93736.4,95319.99
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-09-01,Labor,555166.69,552090.7,546056.05,562068.18
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-09-01,Materials,442161.22,437140.08,446544.05,445873.7
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-09-01,Subcontracts,347168.22,340255.97,355124.99,345792.35
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-09-01,Overhead,252023.97,249234.32,245502.34,249058.81
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-09-01,Travel,59116.46,57109,60788.76,57869.91
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-09-01,Other Direct Costs,94941.9,97298.54,93825.27,96454.96
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-10-01,Labor,537089.14,549417.59,545851.88,544108.36
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-10-01,Materials,424553.65,434834.86,424811.36,426744.51
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-10-01,Subcontracts,355108.36,348800.59,344647.85,348909.63
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-10-01,Overhead,258241.88,266087.89,250940.82,264949.22
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-10-01,Travel,59930.9,61846.04,61029.37,60878.8
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-10-01,Other Direct Costs,95161.94,96512.35,95151.78,96208.22
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-11-01,Labor,562052.06,558621.54,564778.72,562707.27
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-11-01,Materials,425276.98,411582.33,413153.7,418677.56
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-11-01,Subcontracts,333564.6,344000.08,329431.42,344671.06
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-11-01,Overhead,261792.25,265816.57,267079.61,267897.05
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-11-01,Travel,58896.08,57526.72,57145.65,57829.93
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-11-01,Other Direct Costs,94210.56,93984.56,91476.06,94120.01
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-12-01,Labor,554636.62,561463.57,570835.25,557137.9
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-12-01,Materials,456922.56,471107.35,461562.71,461749.42
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-12-01,Subcontracts,345650.74,345117.49,355736.1,348994.54
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-12-01,Overhead,256724.91,255327.71,255112.42,257520.15
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-12-01,Travel,62620.91,64701.36,61516.74,63346.69
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2024-12-01,Other Direct Costs,93596.97,90345.17,94186.37,92964.99
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-01-01,Labor,525024.01,524418.84,539171.92,518599.46
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-01-01,Materials,427920.16,421359.52,417268.53,430651.04
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-01-01,Subcontracts,318166.36,310211.42,310004.67,310004
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-01-01,Overhead,244368.41,251106.4,241341.96,246410.19
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-01-01,Travel,56834.63,58009.33,56199.79,57270.21
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-01-01,Other Direct Costs,87587.19,88127.11,86907.51,87716.56
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-02-01,Labor,540976.45,539386.9,547734.56,534299.28
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-02-01,Materials,436083.8,428932.47,445937.03,432316.77
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-02-01,Subcontracts,322065.91,323867.57,317414.69,321109.44
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-02-01,Overhead,234582.26,241817.97,236441.18,242526.63
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-02-01,Travel,56103.54,54432.49,55874.11,54648.34
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-02-01,Other Direct Costs,92182.95,91655.98,93714.1,92759.11
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-03-01,Labor,541634.81,547664.19,551922.49,553069.6
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-03-01,Materials,414974.38,412531.64,404414.59,420842.37
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-03-01,Subcontracts,349103.41,342729.88,353519.96,344151.17
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-03-01,Overhead,249726.78,252934.68,252705.28,253076.02
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-03-01,Travel,57070.74,55498.94,57322.08,56467.73
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-03-01,Other Direct Costs,89070.33,90697.55,90541.52,90959.5
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-04-01,Labor,536079.13,543774.75,537072.78,539159.21
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-04-01,Materials,443775.09,455736.18,445963.5,453012.87
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-04-01,Subcontracts,352404.59,341392.01,342172.76,341138.72
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-04-01,Overhead,243780.93,237654.32,238305.66,239133.1
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-04-01,Travel,58865.88,60894.4,59753,59527.58
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-04-01,Other Direct Costs,92613.74,95383.86,93407.69,95331.31
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-05-01,Labor,544526.98,529689.99,540837.26,531518.99
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-05-01,Materials,445161.96,440475.01,449318.2,444299.81
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-05-01,Subcontracts,343445.58,353032.97,348940.13,348297.15
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-05-01,Overhead,246995.13,241454.48,251331.73,241520.39
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-05-01,Travel,59796.89,61307.4,58670.06,60940.33
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-05-01,Other Direct Costs,95746.57,95157.03,98237.85,96700.25
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-06-01,Labor,550681.67,565165.19,542711.49,555764.91
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-06-01,Materials,423369.92,432290.79,434337.64,436458.58
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-06-01,Subcontracts,347005.69,336423.87,337968.58,339122.09
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-06-01,Overhead,246562.55,254852.97,252370.56,256179.89
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-06-01,Travel,59481.21,57667.49,60351.6,58945.86
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-06-01,Other Direct Costs,93032.06,93669.13,93618.67,93910.34
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-07-01,Labor,554769.17,555323.05,557405.96,556289.04
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-07-01,Materials,442702.02,428809.81,449576.39,434022.14
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-07-01,Subcontracts,363247.35,359918.01,363427.69,366676.26
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-07-01,Overhead,251991.43,244367.34,245401.15,248138.35
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-07-01,Travel,58547.91,57372.36,58563.54,58552.43
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-07-01,Other Direct Costs,92961.62,91833.08,90215.13,93310.58
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-08-01,Labor,561108.54,548742.11,565559.65,556254.93
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-08-01,Materials,434466.36,429443.86,432732.63,432917.45
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-08-01,Subcontracts,339324.12,338624.32,332891.82,336601.89
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-08-01,Overhead,260521.28,256118.02,257127.68,255379.99
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-08-01,Travel,63329.47,61541.52,62327.38,62422.5
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-08-01,Other Direct Costs,93617.77,95012.68,95028.55,95759.59
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-09-01,Labor,561755.38,577769.04,576832.58,572539.56
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-09-01,Materials,435225.07,445765.52,442207.65,449599.48
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-09-01,Subcontracts,366368.55,375728.28,377103.8,371757.72
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-09-01,Overhead,264636.3,270240.68,269584.48,269955.49
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-09-01,Travel,59545.39,59517.81,60074.16,59084.03
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-09-01,Other Direct Costs,92626.09,90202.81,94485.26,92076.96
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-10-01,Labor,567903.23,558987.95,574942.68,565142.85
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-10-01,Materials,456169.25,464144.71,461182.17,468547.95
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-10-01,Subcontracts,349198.19,338174.48,341429.3,341333.38
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-10-01,Overhead,272366.03,265153.66,265445.63,267815.61
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-10-01,Travel,62434.09,63386.04,64073.82,63508.77
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-10-01,Other Direct Costs,98502.17,95728.42,97620.49,96369.55
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-11-01,Labor,568195.78,579726.54,561793.7,573394.22
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-11-01,Materials,447390.72,432375.67,446570.68,442588.33
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-11-01,Subcontracts,375388.43,379570.48,377965.63,380177.54
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-11-01,Overhead,267472.78,272879.75,274471.05,274246.13
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-11-01,Travel,64773.21,64716.29,66660.43,64346.91
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-11-01,Other Direct Costs,94067.05,90974.65,91714.61,91618.22
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-12-01,Labor,575484.46,581911.72,560994.47,589303.31
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-12-01,Materials,459916.49,454961.56,468529.08,451878.23
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-12-01,Subcontracts,371539.13,361988.23,364745.23,367204.25
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-12-01,Overhead,274235.16,277680.63,271068.35,275513.65
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-12-01,Travel,64105.54,62791.56,64588.11,62659.41
+AP-101,Falcon,DoD,Aircraft,Sarah Chen,2025-12-01,Other Direct Costs,96946.98,98317.79,94773.36,98191.6
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-01-01,Labor,421163.12,435412.66,415164.24,425882.85
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-01-01,Materials,333455.95,330242.63,334033.37,332206.78
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-01-01,Subcontracts,273937.03,274156.91,276882.63,277845.86
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-01-01,Overhead,192653.52,190677.41,191032.02,190763.8
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-01-01,Travel,47241.89,48585.53,47354.62,47792.26
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-01-01,Other Direct Costs,71403.61,70616.86,72090.34,71635.96
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-02-01,Labor,442418.42,439705.53,448227.94,446424.56
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-02-01,Materials,336413.32,347625.88,338565.52,339706.39
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-02-01,Subcontracts,263165.3,266954.73,262230.27,267174.44
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-02-01,Overhead,197213.64,195932.43,193810.65,194330.66
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-02-01,Travel,47591.67,46072.68,47690.01,46723.36
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-02-01,Other Direct Costs,69577.81,69933.99,71332.95,69408.58
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-03-01,Labor,422483.09,415601.08,422758.18,415781.7
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-03-01,Materials,348291.33,342420.56,338845.3,349027.1
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-03-01,Subcontracts,266403.94,266915.06,261636.93,270962.66
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-03-01,Overhead,201930.54,207486.81,207858.99,206760.46
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-03-01,Travel,47259.3,47554.68,46553.66,47584.23
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-03-01,Other Direct Costs,72337.38,71095.84,71817.42,72288.5
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-04-01,Labor,448622.79,464062.93,444507.9,458208.87
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-04-01,Materials,353598.5,354045.13,345238.77,358970.34
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-04-01,Subcontracts,269338.89,263697.39,269465.27,268285.54
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-04-01,Overhead,192716.01,191666.51,195710.78,193997.07
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-04-01,Travel,46667.53,45770.56,46725.72,46409.59
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-04-01,Other Direct Costs,73894.34,76378.16,71735.34,76123.2
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-05-01,Labor,434177.8,447201.7,441010.73,448297.69
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-05-01,Materials,344011.69,335119.48,338524.69,338213.66
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-05-01,Subcontracts,279033.58,273366.57,283327.5,272768.92
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-05-01,Overhead,206845.29,201936.8,202505.37,201613.34
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-05-01,Travel,46865.02,48081.12,45469.56,47543.06
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-05-01,Other Direct Costs,74904.96,75592.23,75343.04,74654.13
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-06-01,Labor,453478.5,450461.35,452587.91,452941.81
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-06-01,Materials,342599.33,334585.03,332581.96,337503.13
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-06-01,Subcontracts,276522.96,285257.43,281662.15,280408.91
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-06-01,Overhead,195315.81,194861.7,196692.53,196347.34
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-06-01,Travel,46362.04,46646.73,46918.33,46896.4
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-06-01,Other Direct Costs,75941.58,75203.98,75608.21,75082.96
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-07-01,Labor,447792.97,445743.69,456942.89,451283.52
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-07-01,Materials,344425.5,347698.34,341513.02,351032.06
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-07-01,Subcontracts,289658.35,299477.37,288759.09,297761.11
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-07-01,Overhead,201642.53,206965.13,204414.06,208061.59
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-07-01,Travel,48271.82,48888.23,47621.99,49171.09
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-07-01,Other Direct Costs,73526.59,75519.75,72555.12,75917.63
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-08-01,Labor,443963.02,483236.15,438861.61,468049.48
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-08-01,Materials,349566.66,349179.66,354327.95,346211.4
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-08-01,Subcontracts,289928.97,298029.95,284762.15,292431.06
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-08-01,Overhead,204802.95,202004.48,207058.03,201260.48
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-08-01,Travel,48615.5,49228.63,47908.29,49882.42
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-08-01,Other Direct Costs,76689.2,76775.65,75721.38,76553.14
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-09-01,Labor,446756.23,491925.76,434113.46,477637.41
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-09-01,Materials,353168.45,350375.18,345311.08,347940
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-09-01,Subcontracts,289469.58,283199.1,293586.6,289805.89
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-09-01,Overhead,207380.67,210541.11,210293.15,208353.91
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-09-01,Travel,50249.59,51874.69,49851.72,51680.44
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-09-01,Other Direct Costs,74395.16,72183.04,74419.58,72120.02
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-10-01,Labor,455585.62,483275.02,444217.81,470386.19
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-10-01,Materials,363025.47,355107.51,371544.83,361409.51
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-10-01,Subcontracts,282398.54,290386.04,286402.2,288405.69
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-10-01,Overhead,212592.5,212818.77,217558.96,211987.4
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-10-01,Travel,50095.54,49550.03,49175.9,49177.18
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-10-01,Other Direct Costs,79665.42,79934.3,80455.03,80836.62
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-11-01,Labor,485153.12,515989.51,482940.28,505080.82
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-11-01,Materials,375969.91,382809.85,381200.53,382270.16
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-11-01,Subcontracts,293229.69,290798.13,289506.17,293012.66
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-11-01,Overhead,210726.03,216128.66,212713.97,214021.58
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-11-01,Travel,49786.94,49448.58,49105.4,49853.45
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-11-01,Other Direct Costs,78179.04,80681.53,78003.25,80602.17
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-12-01,Labor,488990.12,516326.82,486721.68,515338.63
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-12-01,Materials,383145.27,380878.26,381824.05,383613.67
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-12-01,Subcontracts,299670.77,299661.19,297965.14,303321.7
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-12-01,Overhead,221386.9,216208.6,226883.64,220830.06
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-12-01,Travel,52085.84,51458.63,53015.36,52061.42
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2024-12-01,Other Direct Costs,75977.98,78523.87,78052.85,78749.61
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-01-01,Labor,435012.11,468511.89,429297.76,464351.05
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-01-01,Materials,344687.28,355402.06,348745.67,352023.25
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-01-01,Subcontracts,281896.73,285670.07,284262.03,285571.75
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-01-01,Overhead,206921.21,209979.85,206395.7,211849.16
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-01-01,Travel,47748.99,47515.9,46630.88,48146.69
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-01-01,Other Direct Costs,73377.17,71981.66,71512.97,71652.07
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-02-01,Labor,461983.93,506204,450047.43,491677.69
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-02-01,Materials,365271.08,357155.53,369419.02,356691.67
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-02-01,Subcontracts,288722.61,285105.22,291253.31,288214.14
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-02-01,Overhead,209163.97,203404.72,204540.45,208969.12
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-02-01,Travel,50184.3,51305.94,49031.91,50361.79
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-02-01,Other Direct Costs,76689.15,76953.17,76779.36,76749.68
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-03-01,Labor,468011.68,505697.53,472236.35,496818.09
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-03-01,Materials,345549.68,340523.72,351405.71,343464.42
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-03-01,Subcontracts,277901.17,268807.9,280951.16,275972.47
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-03-01,Overhead,202060.09,204821.7,206612.24,204313.59
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-03-01,Travel,47421.19,48567.59,46854.51,48916.61
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-03-01,Other Direct Costs,78458.86,80177.76,78438.05,78663.95
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-04-01,Labor,479609.41,527196.93,480151.05,516884.2
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-04-01,Materials,358828.92,347248.73,364529,350918.78
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-04-01,Subcontracts,294442.59,302549.33,301078.56,300038.49
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-04-01,Overhead,209511.33,215541.42,215017.82,210989.14
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-04-01,Travel,50692.71,49094.84,50275.97,49735.57
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-04-01,Other Direct Costs,77250.98,78329.4,78118.33,78546.32
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-05-01,Labor,455786.62,496548.18,463864.79,476858.75
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-05-01,Materials,373064.58,379532.29,375759.73,383175.8
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-05-01,Subcontracts,281593.88,289279.75,288097.93,289594.29
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-05-01,Overhead,207963.73,215116.66,209080.11,214715.53
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-05-01,Travel,48848.39,48736.53,49344.65,49383.67
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-05-01,Other Direct Costs,78742.51,81105.87,80168.76,79503.39
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-06-01,Labor,479265.99,535655.9,477530.39,510971.72
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-06-01,Materials,382899.58,377267.16,379563.12,376786.64
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-06-01,Subcontracts,294687.95,296734.02,289852.81,299192.13
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-06-01,Overhead,217459.09,218801.48,221025.37,221537
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-06-01,Travel,49196.59,50651.8,47896.87,49875.46
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-06-01,Other Direct Costs,75467.89,74773.56,76229.12,74909.06
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-07-01,Labor,456646.32,510914.1,443326.16,497608.89
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-07-01,Materials,357638.95,369618.78,356459.79,367539.7
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-07-01,Subcontracts,296454.28,291696.01,295936.07,298503.79
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-07-01,Overhead,219334.73,216977.51,215092.01,215974.71
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-07-01,Travel,52661.11,52057.61,51782.72,52298.3
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-07-01,Other Direct Costs,81580.33,80282.69,83953.85,80439.72
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-08-01,Labor,463345.3,535847.99,466936.87,506977.07
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-08-01,Materials,375332.79,373774.39,385603.23,373923.15
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-08-01,Subcontracts,294641.35,295903.13,293095.31,299960.17
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-08-01,Overhead,213632.63,215520.14,207450.05,214667.72
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-08-01,Travel,51783.16,51623.21,52153.96,52333.52
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-08-01,Other Direct Costs,78491.15,79174.28,78384.84,80298.54
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-09-01,Labor,480725.94,531706.59,487565.14,516837.8
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-09-01,Materials,394319.06,385357.38,393876.14,394122.74
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-09-01,Subcontracts,309093.27,314011.21,300398.53,314418.68
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-09-01,Overhead,214569.36,214207.59,216913.93,213700.23
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-09-01,Travel,53269.52,54559.65,52124.07,54927.1
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-09-01,Other Direct Costs,82671.88,84872.61,82023.41,84896.59
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-10-01,Labor,478842.96,543335.09,465739.12,526195.3
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-10-01,Materials,368312.22,374175.81,363653.19,373806.82
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-10-01,Subcontracts,301735.43,305222.64,297545.63,302662.35
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-10-01,Overhead,225532.54,223817.86,222153.13,228397.04
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-10-01,Travel,53028.92,53231.08,52855.56,53123.98
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-10-01,Other Direct Costs,78047.43,75957.84,79032.84,77950.29
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-11-01,Labor,501870.79,575713.68,491659.8,558154.41
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-11-01,Materials,373074.32,377020.88,381872.92,378997.47
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-11-01,Subcontracts,309912.03,317919.01,306592.95,317209.24
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-11-01,Overhead,227432.64,220169.42,226816.36,224081
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-11-01,Travel,52580.33,51500.62,51796.19,51918.35
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-11-01,Other Direct Costs,79813.78,80404.68,79135.14,80858.93
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-12-01,Labor,482497.75,553368.69,481354.63,533951.04
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-12-01,Materials,390304.35,393502.59,390349.62,391225.93
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-12-01,Subcontracts,294837.65,291107.63,301883.28,296749.39
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-12-01,Overhead,226318.11,231510.18,221802.43,232805.79
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-12-01,Travel,54602.13,52788.27,56047.13,54369.09
+AP-102,Sentinel,DoD,Missile Systems,Marcus Reed,2025-12-01,Other Direct Costs,83341.43,81536.32,85477.4,83512.32
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-01-01,Labor,568351.89,582072.51,560420.37,579527.55
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-01-01,Materials,438938.32,439062.95,443939.2,444583.67
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-01-01,Subcontracts,350064.62,361112.19,355070.6,360866.14
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-01-01,Overhead,242654.28,250377.88,237170.02,247843.9
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-01-01,Travel,61163.88,61678.73,60145.44,61655.01
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-01-01,Other Direct Costs,93900.93,90825.87,91864.2,91598.18
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-02-01,Labor,576381.12,591077.27,562050.82,594977.21
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-02-01,Materials,452819.88,459302.24,455571.25,463124.76
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-02-01,Subcontracts,342384.9,337017.81,335806.27,343142.43
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-02-01,Overhead,245342.37,236908.01,242752.96,237296.46
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-02-01,Travel,59308.94,59892.27,60133.18,60632.58
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-02-01,Other Direct Costs,89472.67,91329.97,92147.1,91351.52
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-03-01,Labor,545486.33,558978.13,546996.34,549881.81
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-03-01,Materials,440455.33,455400.46,431679.58,449242.93
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-03-01,Subcontracts,356469.37,355930.48,351801.04,356511.63
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-03-01,Overhead,248585.14,248899.82,244457.53,252988.73
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-03-01,Travel,58332.87,56912.14,57848.6,57516.79
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-03-01,Other Direct Costs,90671.49,90791.69,89235.86,92243.55
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-04-01,Labor,572609.06,570619.92,562260.2,581415.63
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-04-01,Materials,445387.46,451730.25,446534.21,453900.83
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-04-01,Subcontracts,356783.89,364955.43,364043.04,365443.13
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-04-01,Overhead,263981.31,257421.08,261608.59,264243.85
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-04-01,Travel,62560.38,63569.12,63146.77,63312.09
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-04-01,Other Direct Costs,94131.12,97012.34,94332.37,97190.5
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-05-01,Labor,565139,579445.27,564354.19,577945.75
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-05-01,Materials,450761.23,435206.5,449715.65,438061.62
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-05-01,Subcontracts,362363.54,371636.48,358564.48,367356.47
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-05-01,Overhead,248847.26,253287.27,253080.3,255421.52
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-05-01,Travel,61870.5,59916.33,63664.37,61131.56
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-05-01,Other Direct Costs,91715.36,93347.89,93604.12,92998.03
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-06-01,Labor,555470.68,557455.25,571136.42,561476.07
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-06-01,Materials,438062.3,493943.99,426317.43,472777.49
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-06-01,Subcontracts,369225.74,377688.94,379576.38,379632.66
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-06-01,Overhead,257341.2,265189.04,251343.85,264004.49
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-06-01,Travel,60278.34,60245.13,61119.1,59946.76
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-06-01,Other Direct Costs,97293.18,99212.98,96269.45,100063.43
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-07-01,Labor,575411.66,568425.42,585731.28,569134.72
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-07-01,Materials,445592.12,499509.3,451312.63,479129.28
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-07-01,Subcontracts,349967.39,360627.55,343266.62,361611.98
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-07-01,Overhead,269476.37,274091.63,265610.83,276751.5
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-07-01,Travel,64577.88,66045.23,66166.82,66230.77
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-07-01,Other Direct Costs,99205.24,95845.26,97210.19,96756.2
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-08-01,Labor,576965.81,590662.43,572219.76,588757.62
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-08-01,Materials,457795.63,506752.59,461303.38,492222.47
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-08-01,Subcontracts,368906.64,360566.75,363369.88,360609.22
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-08-01,Overhead,266519.23,272589.85,264124.14,274656.13
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-08-01,Travel,64361.36,64044.39,64309.39,64642.14
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-08-01,Other Direct Costs,99942.73,98578.01,97330.72,98627.25
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-09-01,Labor,594628.91,581673.59,577797.7,585273.53
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-09-01,Materials,462605.54,494781.52,452610.03,478717.08
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-09-01,Subcontracts,362603.87,368520.17,358397.5,365590.98
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-09-01,Overhead,266292.03,265993.89,267600.31,266887.18
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-09-01,Travel,62775.72,61323.45,61855.58,62534.81
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-09-01,Other Direct Costs,97586.68,98286.49,98320.38,99347.95
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-10-01,Labor,600307.72,596580.83,616027.15,603470.42
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-10-01,Materials,484253.16,543378.01,473487.58,521380.7
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-10-01,Subcontracts,374281.93,399781.7,373118.36,392418.77
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-10-01,Overhead,260022.48,252158.23,262950.56,256924.93
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-10-01,Travel,66307.88,65402.24,67556.83,65789.71
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-10-01,Other Direct Costs,101724.55,102834.19,98861.37,101357.78
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-11-01,Labor,615140.09,602611.57,610022.59,607352.97
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-11-01,Materials,474094.67,529910.54,485395.9,506405.26
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-11-01,Subcontracts,362322.8,379427.05,357836.02,371325.98
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-11-01,Overhead,276096.54,268995.56,278544.47,275971.4
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-11-01,Travel,67003.3,65328.06,68464.42,65654.02
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-11-01,Other Direct Costs,96678.74,97887.3,96025.73,96708.13
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-12-01,Labor,598245.56,582475.64,581059.94,594779.75
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-12-01,Materials,486191.13,561007.51,478412.09,534091.61
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-12-01,Subcontracts,367528.95,383236.54,361135.81,380971.9
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-12-01,Overhead,279769.86,274311.49,280535.65,278089.51
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-12-01,Travel,67472.78,65687.26,68907.71,66175.56
+AP-103,Orion,NASA,Space Systems,Elena Torres,2024-12-01,Other Direct Costs,103589.22,105531.55,101650.55,106003.17
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-01-01,Labor,567702.59,556779.98,574811.36,562530.5
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-01-01,Materials,462788.64,531122.54,473544.43,510000.31
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-01-01,Subcontracts,346859.3,369488.72,342740.07,367001.93
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-01-01,Overhead,257392.65,248868.94,252760.93,250961.78
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-01-01,Travel,60247.49,62181.58,59013.88,60842.17
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-01-01,Other Direct Costs,94664.86,97515.63,93296.45,95645.21
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-02-01,Labor,586512.82,583929.19,601340.73,591846.09
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-02-01,Materials,467230.25,526108.78,462937.21,512689.68
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-02-01,Subcontracts,368380.92,385790.51,376181.4,385152.44
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-02-01,Overhead,258637.35,255124.57,257465.75,258843.29
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-02-01,Travel,61735.79,62841.83,61081.93,62274.46
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-02-01,Other Direct Costs,93162.13,96412.07,92652.66,95968.82
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-03-01,Labor,571901,584964.1,577759.33,583281.47
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-03-01,Materials,454914.67,508892.43,466906.75,491328.08
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-03-01,Subcontracts,372074.34,394764.53,374874.42,386352.3
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-03-01,Overhead,272206.25,275849.48,276121.99,274463.43
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-03-01,Travel,64545.09,64505.14,64833.66,64683.62
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-03-01,Other Direct Costs,94650.38,94209.25,97392.61,93522.75
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-04-01,Labor,569503.25,577692.95,563364.19,576451.95
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-04-01,Materials,458797.6,527307.37,451124.19,509662.81
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-04-01,Subcontracts,381702.18,396869.99,391691.83,394907.4
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-04-01,Overhead,264043.91,272610.6,267592.27,269709.5
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-04-01,Travel,62363.77,64218.84,63834.4,63389.51
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-04-01,Other Direct Costs,99447.74,96380.03,97092.74,99241.35
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-05-01,Labor,613342.94,613490.79,609205.74,615416.34
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-05-01,Materials,455601.44,507422.89,453227.91,489518.43
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-05-01,Subcontracts,357020.76,385014.47,349860.08,374519.69
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-05-01,Overhead,277822.1,285111.1,276050.36,285782.74
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-05-01,Travel,66316.6,68528.33,67459.18,67189.95
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-05-01,Other Direct Costs,96942.18,97633.27,94704.39,98618.82
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-06-01,Labor,595844.74,609033.94,581406.21,607572.41
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-06-01,Materials,481590.95,541477.02,481226.43,521601.84
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-06-01,Subcontracts,359383.56,397428.87,349842.17,386325.71
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-06-01,Overhead,266799.87,263539.6,269671.79,262173.36
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-06-01,Travel,65021.48,66974.45,66474.1,66778.14
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-06-01,Other Direct Costs,100913.17,97655.64,99105.21,98170.91
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-07-01,Labor,607325.73,627467.38,597264.98,627832.59
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-07-01,Materials,494641.26,557743.17,508886.14,532837.42
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-07-01,Subcontracts,374756.78,380569.67,367502.65,375041.21
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-07-01,Overhead,281786.4,291013.76,281146.86,291526.24
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-07-01,Travel,63908.76,65216.26,65525.15,65282.08
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-07-01,Other Direct Costs,101657.17,99443.05,103034.24,101189.92
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-08-01,Labor,639108.08,644857.13,625230.68,652018.23
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-08-01,Materials,501571.56,534439.17,504819.11,522820.92
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-08-01,Subcontracts,369063.9,406021.37,377092.09,391000.39
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-08-01,Overhead,277201.29,272763.63,279862.98,278190.25
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-08-01,Travel,66641.31,66406.6,65020.29,66429.46
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-08-01,Other Direct Costs,103883.39,105872.24,105723.02,106412.49
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-09-01,Labor,642703.79,656750.36,627959.75,660819.42
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-09-01,Materials,501435.21,539416.39,494710.13,526857.79
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-09-01,Subcontracts,393119.13,414784.29,391844.92,404368.33
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-09-01,Overhead,279984.69,288372.31,274209.34,282836.42
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-09-01,Travel,64427.9,64070.95,64791.31,64322.68
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-09-01,Other Direct Costs,105593.33,103163.75,105027.11,102886.91
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-10-01,Labor,619831.19,622849.98,637974.71,616478.44
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-10-01,Materials,473725.93,555538.65,478269.19,526580.47
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-10-01,Subcontracts,391748.21,420595.13,384738.79,406352.22
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-10-01,Overhead,284776.91,286235.34,276609.64,286896.53
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-10-01,Travel,64440.37,65899.95,64768.32,65298.08
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-10-01,Other Direct Costs,101855.85,103688.46,102803.29,102257.29
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-11-01,Labor,624346.67,641349.29,625356.76,646213.83
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-11-01,Materials,513712.92,552471.47,514172.29,539821.23
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-11-01,Subcontracts,402446.96,425120.15,405898.62,413095.71
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-11-01,Overhead,279385.85,281153.25,286460.6,285466.28
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-11-01,Travel,66116.38,66231.11,67357.57,65720.98
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-11-01,Other Direct Costs,107580.73,109529.38,105246.41,110399.31
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-12-01,Labor,639996.92,617985.43,633227.39,625404.81
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-12-01,Materials,494236.17,554017.73,482906.44,539640.06
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-12-01,Subcontracts,409535.69,425821.33,412519.22,416189.18
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-12-01,Overhead,296546.99,306512.23,290516.17,301682.37
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-12-01,Travel,69731.33,71008.35,68525.89,70004.64
+AP-103,Orion,NASA,Space Systems,Elena Torres,2025-12-01,Other Direct Costs,105760.21,104759.71,105919.79,106696.28
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-01-01,Labor,354684.69,359570.9,355040.32,355465.5
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-01-01,Materials,282812.54,273564.81,283249.96,276818.89
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-01-01,Subcontracts,224324.56,216484.06,226291.85,220481.04
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-01-01,Overhead,159604.14,163146.14,157804.23,160867.68
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-01-01,Travel,38503.89,38719.59,37438.02,38307.37
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-01-01,Other Direct Costs,62665.77,64011.69,63033.22,64433.27
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-02-01,Labor,362011.2,367222.26,355922.91,364686.27
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-02-01,Materials,283714.76,291619.83,282455.87,289092.46
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-02-01,Subcontracts,228392.81,222098.11,229088.23,228303.47
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-02-01,Overhead,171615.88,172121.83,172933.9,173784.11
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-02-01,Travel,40809.24,39841.11,41515.98,40695.11
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-02-01,Other Direct Costs,61196.11,62254.91,62746.96,62942.14
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-03-01,Labor,365890.44,363644.36,364305.75,362316.65
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-03-01,Materials,300612.01,295084.5,299282.06,294120.2
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-03-01,Subcontracts,234013,238688.32,227077.34,238866.5
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-03-01,Overhead,173498.54,175343.56,171361.04,176396.35
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-03-01,Travel,39009.84,38780.52,39419.98,39166.53
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-03-01,Other Direct Costs,60020.69,58772.06,58659.73,58606.11
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-04-01,Labor,386096.81,395559.19,392791.85,396646.09
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-04-01,Materials,308000.64,311203.49,304165.89,309780.76
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-04-01,Subcontracts,233224.62,228158.66,227935.75,233097.54
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-04-01,Overhead,173606.17,172776.47,175762.61,172783.16
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-04-01,Travel,40515.38,41149.04,40842.45,41420.93
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-04-01,Other Direct Costs,62477.53,61442.95,62744.05,62879.76
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-05-01,Labor,387079.65,395526.16,380138.5,388234.63
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-05-01,Materials,294498.57,294207.17,287822.53,298858.25
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-05-01,Subcontracts,227737.07,223720.46,232482.14,227698.5
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-05-01,Overhead,174563.35,168767,172016.96,169193.63
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-05-01,Travel,40693.95,40382.97,40231.56,40711.68
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-05-01,Other Direct Costs,64208.44,63529.99,65933.33,64840.86
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-06-01,Labor,376953.25,376032.86,377620.14,377821.4
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-06-01,Materials,297805.98,293349.19,304127.62,300015.04
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-06-01,Subcontracts,242310.96,238596.75,244589.7,238763.16
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-06-01,Overhead,177832.98,176022.12,181585.95,175857.57
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-06-01,Travel,41201.1,41175.07,41120.86,41576.28
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-06-01,Other Direct Costs,63984.03,65795.56,63472.48,65528.87
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-07-01,Labor,400370.22,410741.3,407465.84,403964.46
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-07-01,Materials,316130.48,309806.34,322763.42,309818.03
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-07-01,Subcontracts,247811.59,246006.93,247691.07,244292.22
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-07-01,Overhead,178834.36,177467.04,179891.24,180334.91
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-07-01,Travel,41046.65,41469.26,40959.89,42036.98
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-07-01,Other Direct Costs,64298.28,65351.21,66118.18,65559.85
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-08-01,Labor,388051.13,401181.91,396401.68,400411.33
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-08-01,Materials,299417.49,295309.1,301626.77,299219.5
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-08-01,Subcontracts,243548.45,237006.75,244628.32,239849.39
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-08-01,Overhead,174794.61,176322.94,174848.8,174060.94
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-08-01,Travel,41322.11,41264.87,40955.73,41134.76
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-08-01,Other Direct Costs,66083.17,66006.12,65729.16,65864.38
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-09-01,Labor,396685.92,408418.91,372890.22,403506.2
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-09-01,Materials,322604.93,312766.52,308912.4,318079.47
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-09-01,Subcontracts,253282.4,255074.02,237796.36,258644.08
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-09-01,Overhead,175450.49,174759.56,168690.54,175489.03
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-09-01,Travel,43042.39,43698.13,39384.93,43723.31
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-09-01,Other Direct Costs,63493.26,64814.87,58290.22,64540.41
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-10-01,Labor,401075.87,398620.16,379815.33,396526.17
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-10-01,Materials,308594.78,306510.12,299409.31,308448.25
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-10-01,Subcontracts,247965.62,251343.41,235790.08,249086.52
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-10-01,Overhead,181612.19,181929.59,175799.02,179924.51
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-10-01,Travel,42532.24,41581.66,41157.39,41893.31
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-10-01,Other Direct Costs,66433.7,67129.57,63884.96,67122.98
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-11-01,Labor,405426.79,403995.84,373310.67,403881.89
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-11-01,Materials,323631.76,316730.34,313364.12,321058.79
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-11-01,Subcontracts,250726.42,255306.89,233295.3,255050.37
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-11-01,Overhead,185994.06,191445.66,175275.01,192054.89
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-11-01,Travel,43169,44208.86,40988.09,43645.66
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-11-01,Other Direct Costs,68964.58,68144.62,65476.99,68052.91
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-12-01,Labor,402008.38,400198.38,369699.69,398243.11
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-12-01,Materials,320520.17,321938.98,296294.17,320550.11
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-12-01,Subcontracts,241728.43,237721.42,224943.28,238529.82
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-12-01,Overhead,181546.14,178699.85,170505.12,181456.63
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-12-01,Travel,42999.04,43861.15,41092.41,43299.06
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2024-12-01,Other Direct Costs,69651.03,69763.98,66039.79,68903.8
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-01-01,Labor,372259.71,361822.09,358829.74,371343.01
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-01-01,Materials,302968.86,311632.15,289858.14,306714.74
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-01-01,Subcontracts,229390.28,231004.18,214674.77,234351.72
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-01-01,Overhead,169914.82,171823.68,161602.36,173935.78
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-01-01,Travel,42417.39,41963.73,40693.78,42108.44
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-01-01,Other Direct Costs,62703.58,62812.44,59161.31,62365.18
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-02-01,Labor,399923.78,400184.18,375442.82,401374.87
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-02-01,Materials,310395.69,301429.95,290177.9,304712.19
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-02-01,Subcontracts,232107.29,235058.13,212801.47,233899.65
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-02-01,Overhead,170985.29,171211.67,161898.7,171345.95
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-02-01,Travel,43127.07,43767.22,39494.69,43156.69
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-02-01,Other Direct Costs,65245.12,65994.69,62189.49,64962.64
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-03-01,Labor,402603.56,409454.33,380467.14,404851.2
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-03-01,Materials,315026.62,304471.85,292885.23,309969.71
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-03-01,Subcontracts,237894.15,239100.58,215241.48,237629.24
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-03-01,Overhead,183514.3,181754.9,173141.21,182157.39
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-03-01,Travel,40823,39728.16,38214.52,40108.48
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-03-01,Other Direct Costs,65620.74,67607.62,60457.52,67883.05
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-04-01,Labor,382778.72,380605.57,362473.76,377102.55
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-04-01,Materials,312710.22,312797.92,296599.74,316361.98
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-04-01,Subcontracts,251064.48,249996.53,237728.72,248451.79
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-04-01,Overhead,185885.85,190249.49,171926.36,191950.04
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-04-01,Travel,43983.69,42778.31,41192.88,42964.69
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-04-01,Other Direct Costs,63697.12,64066.64,57965.17,64509.8
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-05-01,Labor,412053.85,400955.44,372038.29,412246.47
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-05-01,Materials,319354.14,316169.19,297494.56,320369.56
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-05-01,Subcontracts,244827.73,251191.39,226683.9,248140.77
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-05-01,Overhead,182246.27,176946,165983.11,178842.72
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-05-01,Travel,43557.55,44398.33,39252.41,43996.03
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-05-01,Other Direct Costs,65749.46,66255.51,60788.86,66235.91
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-06-01,Labor,397805.89,402210.01,377930.3,406948.29
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-06-01,Materials,317996.71,322106.51,290163,325646.37
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-06-01,Subcontracts,254943.13,254988.56,229061.06,255061.52
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-06-01,Overhead,175350.23,176073.04,166939.57,177179.25
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-06-01,Travel,43389.67,42470.04,39659.41,42763.05
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-06-01,Other Direct Costs,68552.41,66339.41,64543.64,67181.89
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-07-01,Labor,394729.69,389349.36,355107.61,386711.65
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-07-01,Materials,318143.16,316971.24,299249.37,313692.83
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-07-01,Subcontracts,249392.27,249170.99,232552.39,250653.3
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-07-01,Overhead,186621.31,189640.44,175503.35,186345.22
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-07-01,Travel,42613.31,42908.75,38726.98,43247.61
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-07-01,Other Direct Costs,68352.6,70584.92,61661.71,70598.48
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-08-01,Labor,417732.36,430519.59,376972.31,429287.88
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-08-01,Materials,319807.45,312706.81,296975.48,314883.97
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-08-01,Subcontracts,258983.97,262226.35,230223.79,265619.29
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-08-01,Overhead,188656.07,184530.05,170232.93,185738.3
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-08-01,Travel,43595.27,42740.14,40590.07,43248.05
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-08-01,Other Direct Costs,67836.7,68962.27,61326.09,67813.42
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-09-01,Labor,409944.41,404332.76,386247.26,406304.62
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-09-01,Materials,316759.73,307919.55,293825.43,309774.75
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-09-01,Subcontracts,265381.98,258321.26,249921.62,263919.8
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-09-01,Overhead,182099.12,178152.56,164360.19,182611.47
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-09-01,Travel,42822.93,43374.61,39964.99,42812.46
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-09-01,Other Direct Costs,70232.64,71743.68,66217.64,71847.38
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-10-01,Labor,424338.36,419543.14,375447.16,423082.51
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-10-01,Materials,315475.92,306906.09,291342.04,309575.39
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-10-01,Subcontracts,251125.04,257094.74,233079.89,258175.53
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-10-01,Overhead,183183.67,182021.48,170466.57,185626.73
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-10-01,Travel,44040.2,43310.29,39983.72,44005.17
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-10-01,Other Direct Costs,67088.34,68550.11,59935.27,68620.83
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-11-01,Labor,407567.08,403766.16,366638.79,410714.94
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-11-01,Materials,340504.97,330627.91,302328.57,339914.71
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-11-01,Subcontracts,266217.94,259402.64,244672.55,259190.34
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-11-01,Overhead,190440.33,183977.89,173764.49,185327.23
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-11-01,Travel,46400.09,46784.75,41709.21,46632.09
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-11-01,Other Direct Costs,69145.77,68293.57,61452.67,68745.86
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-12-01,Labor,436048.01,437654.63,390815.2,439507.11
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-12-01,Materials,331375.89,331841.06,294587.36,329047.99
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-12-01,Subcontracts,266960.26,261357.62,244571.16,263459.59
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-12-01,Overhead,185194.79,184534.93,167970.07,185074.34
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-12-01,Travel,44125.6,45467.27,39602.53,44955.53
+AP-104,Atlas,Commercial,Satellite Systems,David Kim,2025-12-01,Other Direct Costs,73509.21,72614.84,67874.21,72251.25
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-01-01,Labor,311261.63,336923.28,294078.84,329031.45
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-01-01,Materials,244006.79,270474.98,230152.45,262173.59
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-01-01,Subcontracts,190444.96,211688.08,186566.89,205414.25
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-01-01,Overhead,147535.81,158970.34,141048.03,153690.47
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-01-01,Travel,34600.92,37187.43,32746.54,36821.03
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-01-01,Other Direct Costs,54346.23,57940.01,52349.89,56161.19
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-02-01,Labor,331206.37,343705.05,326099.67,344390.62
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-02-01,Materials,253749.3,260465.73,241556.56,259145.08
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-02-01,Subcontracts,203069.8,215002.08,200423.5,213694.06
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-02-01,Overhead,142872.37,158104,137501.78,155021.15
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-02-01,Travel,33219.37,34932,31006.19,34577.1
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-02-01,Other Direct Costs,52595.36,56604.66,52217.86,54873.16
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-03-01,Labor,325189.82,340617.58,307536.87,340007.02
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-03-01,Materials,256607,282414.66,241304.63,270894.77
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-03-01,Subcontracts,206732.09,220375.08,201745.95,218305.65
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-03-01,Overhead,144462.74,149695.64,138439.18,146514.82
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-03-01,Travel,33748.87,35612.87,32643.06,35061.21
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-03-01,Other Direct Costs,52024.77,53582.36,48427.43,52481.88
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-04-01,Labor,315305.1,325776.42,295571.37,319300.31
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-04-01,Materials,248341.44,269486.82,238289.74,266340.17
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-04-01,Subcontracts,204454.09,217064.55,197860.34,214985.59
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-04-01,Overhead,146321.61,158246.74,138350.15,156011.37
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-04-01,Travel,34464.5,34972.6,32654.19,34417.96
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-04-01,Other Direct Costs,54781.61,57082.82,53770.26,56176.05
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-05-01,Labor,335879.29,349983.12,323489.12,347588.56
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-05-01,Materials,255061.21,269295.33,239223.73,267959.44
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-05-01,Subcontracts,208012.3,218150,201892.06,215761.04
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-05-01,Overhead,148490.32,159489.53,141061.43,156295.58
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-05-01,Travel,34325.18,36023.24,34141.15,35988.02
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-05-01,Other Direct Costs,53455.25,58982.69,50664.1,57566.88
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-06-01,Labor,322501.04,354865.09,310369.06,348563.96
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-06-01,Materials,260051.13,277275.6,242551.24,269859.41
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-06-01,Subcontracts,201922.41,212989.57,196835.64,208214.45
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-06-01,Overhead,153118.69,161825.27,150851.21,159734.03
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-06-01,Travel,35678.29,36521.41,33992.01,36768.65
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-06-01,Other Direct Costs,54468.01,56770.8,52364,56208.27
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-07-01,Labor,330038.92,350246.75,307195.16,346504.16
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-07-01,Materials,272065.86,275793.29,268815.37,272487.26
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-07-01,Subcontracts,216177.29,229020.38,214628.14,224548.52
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-07-01,Overhead,155795.89,160377.55,150175.8,160406.13
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-07-01,Travel,34776.36,35748.79,32610.84,35926.72
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-07-01,Other Direct Costs,57867.97,60888.62,53541.46,59441.06
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-08-01,Labor,346731.92,366605.2,327665.66,363452.16
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-08-01,Materials,274118.82,288884.53,254185.76,284087.92
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-08-01,Subcontracts,210386.28,220777.12,202174.83,215899.27
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-08-01,Overhead,151672.8,162424.71,145410.92,157500.39
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-08-01,Travel,37401.31,40120.31,34923.45,38851.57
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-08-01,Other Direct Costs,56627.64,59725.1,55782.92,58096
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-09-01,Labor,340798.26,350191.73,332748.46,346137.49
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-09-01,Materials,266108.19,280008.93,255513.39,277195.11
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-09-01,Subcontracts,209370.9,227036.87,203284.98,223447.21
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-09-01,Overhead,160243.77,166537.38,148831.06,164843.12
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-09-01,Travel,37200.03,41275.52,34814.43,39772.62
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-09-01,Other Direct Costs,55845.76,58775.93,54180.97,58432.14
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-10-01,Labor,338727.44,336396.53,341381.25,341001.84
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-10-01,Materials,267351.11,270837.28,269852.48,272152.81
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-10-01,Subcontracts,211295.94,208709.8,216904.87,211925.47
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-10-01,Overhead,151726.51,152706.48,153850.66,152974.13
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-10-01,Travel,36479.41,36339.93,36953.46,36674.39
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-10-01,Other Direct Costs,56940.35,58478.15,57685.43,57264.59
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-11-01,Labor,349874.77,360711.04,357649.12,353484.84
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-11-01,Materials,272885.05,275278.78,267789.41,278650.14
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-11-01,Subcontracts,213915.45,211917.94,215938.65,211422.71
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-11-01,Overhead,158505.42,163566.01,154301.57,163624.37
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-11-01,Travel,38343.7,38246.73,38495.14,38861.57
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-11-01,Other Direct Costs,57155.27,55828.09,57985.64,57269.28
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-12-01,Labor,345597.44,351243.51,339367.61,348461.7
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-12-01,Materials,281590,283462.55,276215.66,280313.86
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-12-01,Subcontracts,219602.7,218205.53,222937.33,219962.5
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-12-01,Overhead,154134.84,155361.51,158558.42,155219.21
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-12-01,Travel,38510.11,39277.61,38223.75,39181.47
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2024-12-01,Other Direct Costs,59598.66,57529.94,60554.14,58821.83
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-01-01,Labor,327941.9,322880.74,334201.23,326583.3
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-01-01,Materials,252041.01,246780.24,248300.3,249454.34
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-01-01,Subcontracts,203395.87,201950.67,198701.94,200902.35
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-01-01,Overhead,148652.44,148970.71,150268.05,147442.84
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-01-01,Travel,36690.99,35624.08,35613.93,36453.52
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-01-01,Other Direct Costs,55576.43,55400.65,56048.53,55073.85
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-02-01,Labor,335097.93,329297.38,334766.34,328434.58
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-02-01,Materials,259531.84,261487.18,251947.12,260498.68
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-02-01,Subcontracts,213083.34,206401.89,206897.59,206785.23
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-02-01,Overhead,156425.28,157747.94,160824.07,155652.03
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-02-01,Travel,37413.8,37887.41,38303.75,37704.38
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-02-01,Other Direct Costs,54275.26,54636.39,55768.26,54043.94
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-03-01,Labor,345639.82,347876.82,354146.8,352250.29
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-03-01,Materials,260502.17,257150.3,254177.62,261534.44
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-03-01,Subcontracts,217462.6,215219.73,217062.61,218245.43
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-03-01,Overhead,152293.62,152873.42,149043.24,151792.77
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-03-01,Travel,35121.71,34092.08,35311.45,34789.77
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-03-01,Other Direct Costs,55362.47,53950.51,56085,54700.66
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-04-01,Labor,332508.21,315409.29,342156.41,319847.26
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-04-01,Materials,260516.58,253957.6,268157.95,255930.14
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-04-01,Subcontracts,215530.34,207434.18,222266.37,211171.81
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-04-01,Overhead,151132.81,140324.01,155310.45,145630.54
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-04-01,Travel,35461.6,33771.32,35282.38,34748
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-04-01,Other Direct Costs,55358.76,55572.77,55849.88,55470.12
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-05-01,Labor,339249.43,336765.25,335985.3,334294.61
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-05-01,Materials,276744.42,269376.59,282956.24,275673.57
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-05-01,Subcontracts,218356.16,210028.36,220612.75,211553.35
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-05-01,Overhead,157636.49,153988.48,164557.38,157607.17
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-05-01,Travel,37995.18,37225.97,37488.35,37746.85
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-05-01,Other Direct Costs,59245.68,54431.27,58658.55,55692.58
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-06-01,Labor,351326.9,328175.62,364240.11,332174.65
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-06-01,Materials,275666.42,265757.02,292083.07,271528.56
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-06-01,Subcontracts,209497.42,192980.04,211647.33,197797.41
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-06-01,Overhead,156363.66,145321.81,156402.76,150808.12
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-06-01,Travel,38317.35,36989.3,38457.16,38079.49
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-06-01,Other Direct Costs,59541.63,56371.06,60076.06,56941.75
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-07-01,Labor,350165.16,339381.52,353447.03,345429.86
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-07-01,Materials,272906.81,260261.56,280181.42,265832.12
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-07-01,Subcontracts,221935.85,205324.81,230585.43,211668.18
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-07-01,Overhead,158414.75,152797.7,165722.27,153395.97
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-07-01,Travel,37998.22,36262.06,39197.76,37093.93
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-07-01,Other Direct Costs,60679.13,57759.49,63453.05,59652.13
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-08-01,Labor,367712.87,345082.44,390210.48,351712.59
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-08-01,Materials,279009.3,263382.43,281345.18,266719.01
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-08-01,Subcontracts,216964.04,205052.3,220578.49,212647.08
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-08-01,Overhead,163507.95,152404.51,165322.86,155833.73
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-08-01,Travel,36737.02,34374.22,37753.48,35405.61
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-08-01,Other Direct Costs,59319.42,57497.84,58284.51,57786.2
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-09-01,Labor,358578.04,350493.69,374618.47,356305.27
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-09-01,Materials,288988.65,282923.09,290446.1,283677.55
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-09-01,Subcontracts,221456.83,218817.03,225941.93,220848.36
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-09-01,Overhead,156981.46,152555.79,162958.57,155251.89
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-09-01,Travel,38616.09,38707.65,38915.6,38713.98
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-09-01,Other Direct Costs,59781.66,58495.99,58628.42,58669.19
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-10-01,Labor,361343.91,348177.67,375092.61,349869.62
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-10-01,Materials,273735.45,265343.97,279381.3,266212.89
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-10-01,Subcontracts,216383.08,207627.25,220054.56,208098.78
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-10-01,Overhead,160142.18,153022.09,169408.95,154137.82
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-10-01,Travel,38935.35,38286.83,40427.35,38575.28
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-10-01,Other Direct Costs,58525.65,55278.63,60899.36,57226.62
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-11-01,Labor,350792.07,334627.1,362717.1,344310.81
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-11-01,Materials,291362.92,281173.44,289624.45,286050.03
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-11-01,Subcontracts,220079.85,208177.04,222774.94,214520.36
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-11-01,Overhead,167896.55,155495.96,177904.47,162475.72
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-11-01,Travel,40089.33,37607.26,40250.21,39129.65
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-11-01,Other Direct Costs,62646.86,61219.43,61822.03,61269.29
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-12-01,Labor,379465.44,350779.08,394611.8,357829.54
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-12-01,Materials,289303.98,270304.94,291215.08,280806.14
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-12-01,Subcontracts,222066.94,208822.09,234917.98,215760.11
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-12-01,Overhead,164111.46,152392.02,166818.45,158516.56
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-12-01,Travel,38157.6,35507.33,38873.41,35980.62
+AP-105,Vanguard,DoD,Autonomous Systems,Priya Shah,2025-12-01,Other Direct Costs,60518.41,57713.7,61174.51,59680.95
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-01-01,Labor,438710.98,444839.47,425563.65,443252.9
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-01-01,Materials,345803.53,336357.05,342717.29,343953.93
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-01-01,Subcontracts,282234.73,278230.64,274799.28,280911.82
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-01-01,Overhead,208057.72,206590.88,210247.76,210158.12
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-01-01,Travel,48721.36,48130.13,49914.48,49024.44
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-01-01,Other Direct Costs,72547.24,73014.11,73304.84,73804.47
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-02-01,Labor,466621.06,480069.27,466982.11,483580.93
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-02-01,Materials,348587.72,343674.67,343840.71,346505.31
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-02-01,Subcontracts,269691.1,264039.13,274821.26,268273.98
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-02-01,Overhead,201764.74,207007.03,200329.55,203397.61
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-02-01,Travel,48913.58,47699.01,49780.38,48848.38
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-02-01,Other Direct Costs,77677.34,76137.23,75501.94,77112.65
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-03-01,Labor,447233.84,459017.16,436978.15,449751.36
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-03-01,Materials,365979.77,362991.16,361021.29,366012.67
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-03-01,Subcontracts,272603.44,269784.55,268815.34,272197.47
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-03-01,Overhead,206755.08,206143.31,206748.68,204823.22
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-03-01,Travel,50653.16,50506.07,51612.56,51042.46
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-03-01,Other Direct Costs,77354.63,76708.95,77895.54,76460.09
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-04-01,Labor,477934.15,475531.03,465571.69,475114.57
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-04-01,Materials,358464.49,348022.65,358973.06,350191.58
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-04-01,Subcontracts,281254.21,273177.3,287713.8,274881.46
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-04-01,Overhead,209197.51,212306.32,210736.14,214659.94
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-04-01,Travel,48472.76,48264.11,49508.13,48206.75
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-04-01,Other Direct Costs,75725,77379.6,73957.18,78079.59
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-05-01,Labor,465829.01,451549.22,479788.3,451529.7
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-05-01,Materials,372103.59,374381.7,382165.57,375534.04
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-05-01,Subcontracts,278988.98,272441.93,282718.98,279049.42
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-05-01,Overhead,214884.79,212496.96,214435.8,215880.21
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-05-01,Travel,50371.81,51236.9,49505.36,50885.42
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-05-01,Other Direct Costs,77874.51,80208.13,79765.29,79010.29
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-06-01,Labor,463922.08,478945.82,472197.3,475719.56
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-06-01,Materials,379173.47,376343.29,373430.94,383989.53
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-06-01,Subcontracts,290719.54,293280.76,289332.46,296543.42
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-06-01,Overhead,213719.38,211674.16,213084.79,214077.98
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-06-01,Travel,51631.03,51465.8,52843.48,51842.18
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-06-01,Other Direct Costs,77814.31,80394.43,79534.26,80371.25
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-07-01,Labor,462733.62,455030.2,476043.11,460619.53
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-07-01,Materials,364668.39,361543.59,356921.46,363049.53
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-07-01,Subcontracts,302291.1,304632.36,300043.69,306025.12
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-07-01,Overhead,210058.53,212949.07,205977.83,210790.18
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-07-01,Travel,48968.95,49869.5,49568.52,50370.58
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-07-01,Other Direct Costs,78743.9,78897.79,77943.37,80033.74
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-08-01,Labor,473440.09,476353.16,477927.57,471622.62
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-08-01,Materials,390468.3,389994.63,395057.31,389112.9
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-08-01,Subcontracts,302403.57,308864.21,298809.92,306762.79
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-08-01,Overhead,223124.73,228838.15,223157.75,225968.94
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-08-01,Travel,53147.92,52152.36,51857.25,53184.3
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-08-01,Other Direct Costs,79387.07,77540.36,81305.86,78635
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-09-01,Labor,467584.08,451848.25,462137.7,453424.07
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-09-01,Materials,380889.99,383024.11,370970.8,388295.2
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-09-01,Subcontracts,287814.94,295436.84,280949.57,290720.14
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-09-01,Overhead,212206.81,209237.31,215279.46,213277.06
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-09-01,Travel,53691.75,52705.44,55075.15,53919.82
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-09-01,Other Direct Costs,82437.8,81965.57,81700.3,81520.03
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-10-01,Labor,491620.04,506816.54,502882.27,501037.69
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-10-01,Materials,371346.37,370169.87,368307.24,374242.33
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-10-01,Subcontracts,292279.76,292885.93,284924.89,291154.11
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-10-01,Overhead,216066.12,215345.95,211892.63,215928.19
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-10-01,Travel,52979.38,52615.26,53573.71,53172.04
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-10-01,Other Direct Costs,81970.77,83656.22,80381.44,83982.26
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-11-01,Labor,503720.01,510629.05,492073.55,515111.67
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-11-01,Materials,373963.87,367678.38,378189.5,367536.24
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-11-01,Subcontracts,311813.31,308139.5,316565.43,306868.04
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-11-01,Overhead,217613.95,214114.91,218129.3,215214.03
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-11-01,Travel,53293.97,53009.65,53230.33,53524.43
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-11-01,Other Direct Costs,83953.75,82169.89,85542.58,82466.8
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-12-01,Labor,490128.04,477339.86,481831.51,484251.96
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-12-01,Materials,403116.89,389706.54,414857.64,398399.61
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-12-01,Subcontracts,299252.96,299438.47,306726.61,300234.99
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-12-01,Overhead,219877.55,216764.39,224242.26,220406.11
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-12-01,Travel,53659.06,53213.01,52881.88,53524.29
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2024-12-01,Other Direct Costs,84481.38,85302.08,82880.97,85138.5
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-01-01,Labor,481720.05,465628.95,475187.66,477221.47
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-01-01,Materials,382568.9,371100.51,392593.61,381062.89
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-01-01,Subcontracts,297002.11,290083.56,293810.1,292335.59
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-01-01,Overhead,205992.63,212745.42,202480.18,212331.36
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-01-01,Travel,48698.05,48700.21,48410.01,49278.74
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-01-01,Other Direct Costs,75885.64,78333.89,75438.14,78640.05
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-02-01,Labor,467431.17,478853.82,459010.76,483043.65
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-02-01,Materials,372844.08,377515.92,366554.68,378203
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-02-01,Subcontracts,290589.86,300297.48,293063.24,298957.56
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-02-01,Overhead,217683.5,216344.7,217959.55,214817.34
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-02-01,Travel,49960.49,51099.42,51352.91,50741.51
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-02-01,Other Direct Costs,77854.91,80329.3,77114.05,80500.69
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-03-01,Labor,466126,459136.44,467939.42,462095.26
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-03-01,Materials,384122.5,389168.14,380413.7,389963.93
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-03-01,Subcontracts,286317.1,307368.82,293863.52,296745.99
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-03-01,Overhead,210896.75,217224.15,207423.04,212800.12
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-03-01,Travel,51547.99,53175.51,52848.13,53273.65
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-03-01,Other Direct Costs,77268.83,78607.55,78539.58,77679.6
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-04-01,Labor,492019.6,482072.75,483566.12,480247.12
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-04-01,Materials,383635.04,387358.78,381805.74,390411.59
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-04-01,Subcontracts,298413.49,324629.63,305941.81,320678.99
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-04-01,Overhead,214883.01,212605.68,220047.89,215000.43
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-04-01,Travel,50359.46,52106.68,49361.59,51152.33
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-04-01,Other Direct Costs,82453.51,81066.09,83235.86,81125.39
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-05-01,Labor,504885.07,507814.5,503023.73,507793.14
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-05-01,Materials,396064.01,385352.67,389801.03,394867.81
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-05-01,Subcontracts,293347.18,304513.31,286394.36,297509.11
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-05-01,Overhead,212584.12,211228.6,215673.6,214759.55
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-05-01,Travel,53870.33,53521.54,52278.38,54373.77
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-05-01,Other Direct Costs,80290.34,81629.66,78561.18,80870.51
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-06-01,Labor,505548.84,507311.09,513149.71,503115.38
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-06-01,Materials,396932.6,409122.9,406736.15,409158.11
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-06-01,Subcontracts,314099.2,340637.84,312857.55,330973.15
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-06-01,Overhead,222846.07,224040.06,223751.7,226129.81
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-06-01,Travel,52857.39,54110.68,52442.19,53468.22
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-06-01,Other Direct Costs,85058.9,82142.28,84840.87,83703.54
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-07-01,Labor,500334.66,513608.07,496832.47,509224.7
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-07-01,Materials,404392.89,400858.68,408811.75,403057.31
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-07-01,Subcontracts,310176.83,334120.68,304171.55,329597.18
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-07-01,Overhead,219355.62,224350.47,214664.69,225214.91
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-07-01,Travel,53587.69,53030.91,53767.46,53336.89
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-07-01,Other Direct Costs,85937.07,83462.16,86510.52,83647.88
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-08-01,Labor,483135.78,488835.59,480630.81,484483.72
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-08-01,Materials,385886.81,372548.6,393357.53,383704.93
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-08-01,Subcontracts,304824.31,329927.09,297164.14,325653.88
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-08-01,Overhead,232929.04,229581.23,226363.47,233527.83
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-08-01,Travel,52018.07,53833.5,51619.15,52666.08
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-08-01,Other Direct Costs,86392.11,86052.96,87342.03,85191.73
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-09-01,Labor,520036.75,503553.7,522494.13,506533.61
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-09-01,Materials,400501.58,414315.19,394157.86,405351.13
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-09-01,Subcontracts,318745.67,352314.96,314199.7,338988.97
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-09-01,Overhead,224905.25,220246.62,229004.59,224072.87
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-09-01,Travel,56067.62,55624.07,55309.04,56464.93
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-09-01,Other Direct Costs,86053.66,86972.33,83620.37,86861.06
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-10-01,Labor,492262.22,495550.3,505433.99,492011.28
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-10-01,Materials,398723.21,406764.16,388025.64,402004.3
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-10-01,Subcontracts,317122.64,342097.36,309011.56,338179.06
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-10-01,Overhead,226177.72,220862.19,232441.48,222081.69
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-10-01,Travel,56477.17,57711.17,55540.43,58137.04
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-10-01,Other Direct Costs,86996.68,86356.43,85438.35,87333.55
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-11-01,Labor,525527.71,507918.32,532100.39,518398.93
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-11-01,Materials,417065.41,405595.86,418781.38,410235.71
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-11-01,Subcontracts,330665.68,364807.99,323348.67,349446.07
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-11-01,Overhead,242029.46,239549.46,243098.14,241663.35
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-11-01,Travel,55979.94,56377.03,56972.69,56211.93
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-11-01,Other Direct Costs,86217.51,84650.53,85735.19,84938.68
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-12-01,Labor,520422.1,529125.84,515279.64,533201.91
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-12-01,Materials,394819.89,400912.69,401660.38,402737.95
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-12-01,Subcontracts,314394.08,338063.75,305634.29,331001.6
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-12-01,Overhead,232125.51,225265.15,226470.68,225608.8
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-12-01,Travel,54446.08,54715.06,54988.81,54826.24
+AP-106,Horizon,Commercial,Aircraft,Michael Grant,2025-12-01,Other Direct Costs,89912.55,88582.65,88618.04,88309.73
